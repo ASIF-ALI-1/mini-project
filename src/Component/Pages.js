@@ -98,7 +98,7 @@ function Pages() {
                 <p className="card-text"> <small className="text-body-secondary">{product.price}</small></p>
               </div>
                 <div class="card-footer">
-                <a href="#" className="btn btn-primary">
+                <a href="#" className="btn btn-danger">
                 Add to cart</a>
                 </div>
             </div>
