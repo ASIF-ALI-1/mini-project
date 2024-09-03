@@ -20,3 +20,6 @@ body{
     transform: rotateY(360deg);
     cursor: pointer;
 }
+.card-footer{
+    background-color: #136a8a #267871;
+}

@@ -18,7 +18,7 @@ const Nav = () => {
             </label>
             <img src={require("./pp.jpg")} alt="logo"  id='imgstyle'></img>
            
-            
+             
             <a href="#"className="home-link">Home</a>
             
             <a href="">Menu</a>
